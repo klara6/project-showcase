@@ -22,7 +22,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ## I. Software Engineering 
 
-# 🧠 Core Programming & Algorithms
+## 🧠 Core Programming & Algorithms
 
 | Project Link | Area / Topic | Project Description | Languages / Libraries | Key Concepts |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-# 🔧 Backend Systems & APIs
+## 🔧 Backend Systems & APIs
 
 | Project Link | Area / Feature | Project Description | Languages / Frameworks | Database / Storage | Notes |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-# 🌐 Full-Stack Applications
+## 🌐 Full-Stack Applications
 
 | Project Link | Area / Functionality | Project Description | Frontend | Backend | Database | Deployment / Tools |
 |---|---|---|---|---|---|---|
@@ -54,7 +54,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ## II. Data & Cloud Engineering
 
-# 🔄 Data Pipelines & Engineering Projects
+## 🔄 Data Pipelines & Engineering Projects
 
 | Project Link | Area / Pipeline Type | Project Description | Tools / Frameworks | Database / Storage | Notes |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-# 📊 Data Analytics
+## 📊 Data Analytics
 
 | Project Link | Area / Functionality | Project Description | Tools / Libraries | Notes |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-# ⛅ Cloud Engineering Projects
+## ⛅ Cloud Engineering Projects
 
 | Project Link | Area / Focus | Project Description | Cloud Platform | Services / Tools | Notes |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ## III. Systems, Delivery & Design
 
-# 🚀 Infrastructure, DevOps & Testing
+## 🚀 Infrastructure, DevOps & Testing
 
 | Project Link | Area / Tool | Project Description | Tools / Automation | Notes |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-# 🎨 Product Design, UI & UX
+## 🎨 Product Design, UI & UX
 
 | Project Link | Area / Focus | Project Description | Tools | Deliverables | Notes |
 |---|---|---|---|---|---|
