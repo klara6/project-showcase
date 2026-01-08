@@ -10,9 +10,9 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 - 🌐 [Full-Stack Applications](#-full-stack-applications)
 
 ### II. Data & Cloud Engineering
-- 🔄 [Data Pipelines & Engineering Projects](#-data-pipelines--engineering-projects)
-- 📊 [Data Analytics](#-data-analytics)
-- ⛅ [Cloud Engineering Projects](#-cloud-engineering-projects)
+- 🔄 [Data Engineering & Pipelines](#-data-engineering--pipelines)
+- 📊 [Data Analytics & Visualization](#-data-analytics--visualization)
+- ⛅ [Cloud Engineering & Architecture](#-cloud-engineering--architecture)
 
 ### III. Systems, Delivery & Design
 - 🚀 [Infrastructure, DevOps & Testing](#-infrastructure-devops--testing)
@@ -54,7 +54,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ## II. Data & Cloud Engineering
 
-## 🔄 Data Pipelines & Engineering Projects
+## 🔄 Data Engineering & Pipelines 
 
 | Project Link | Area / Pipeline Type | Project Description | Tools / Frameworks | Database / Storage | Notes |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-## 📊 Data Analytics
+## 📊 Data Analytics & Visualization 
 
 | Project Link | Area / Functionality | Project Description | Tools / Libraries | Notes |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ---
 
-## ⛅ Cloud Engineering Projects
+## ⛅ Cloud Engineering & Architecture 
 
 | Project Link | Area / Focus | Project Description | Cloud Platform | Services / Tools | Notes |
 |---|---|---|---|---|---|
