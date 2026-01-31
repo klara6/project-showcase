@@ -9,7 +9,6 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 - 🛠 [Experimental Projects](#-experimental-projects)
 
 ### II. Data & Cloud Engineering
-- 📊 [Data Analytics & Visualization](#-data-analytics--visualization) 
 - 🔄 [Data Engineering & Pipelines](#-data-engineering--pipelines)
 - ⛅ [Cloud Engineering & Architecture](#-cloud-engineering--architecture)
 
@@ -39,14 +38,6 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ## II. Data & Cloud Engineering
 
-## 📊 Data Analytics & Visualization 
-
-| Project Link | Area / Functionality | Project Description | Tools / Libraries | Notes |
-|---|---|---|---|---|
-| - | - | - | - | - |
-
----
-
 ## 🔄 Data Engineering & Pipelines 
 
 | Project Link | Area / Pipeline Type | Project Description | Tools / Frameworks | Database / Storage | Notes |
@@ -67,9 +58,9 @@ Welcome to my project showcase! This page highlights a selection of my personal 
 
 ## 🎨 Product Design, UI & UX
 
-| Project Link | Area / Focus | Project Description | Tools | Deliverables | Notes |
+| Prototype | Area / Focus | Project Description | Tools | Deliverables | Notes |
 |---|---|---|---|---|---|
-| - | - | - | - | - | - |
+| [View](https://www.figma.com/proto/MCKiX3erfdbqNTP0qLCzBH/Goodreads-Mobile-Redesign?node-id=5-5&t=UQCaUXWQWjZNrFH7-1) | Product Design, UI & UX | Led an exploratory redesign of the Goodreads Mobile application, examining how improvements in navigation, discovery, and study and social workflows could support long-term user engagement. | Figma, FigJam, Notion, Figma Smart Animate, Miro, React. | Research synthesis, user flows, wireframes, high-fidelity screens, interactive prototypes. | View full report [here](https://medium.com/@klara6/redesigning-goodreads-mobile-a-ui-ux-case-study-346c31e06ba7). |
 
 ---
 
